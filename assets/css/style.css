@@ -1,0 +1,89 @@
+/* ============= GENERELL STYLES =========== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-size: 10px;
+}
+
+/* ============= HEADER STYLES =========== */
+
+
+
+/* ============= MAIN STYLES =========== */
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content:
+}
+
+/* section p {
+    display: flex;
+    justify-content: center;
+    max-width: 25rem;
+    margin-left: 1rem;
+} */
+
+form {
+    margin: ;
+    max-width: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    flex-direction: column;
+}
+
+input [type="email"] {
+    margin: 0 5rem;
+}
+
+input [type="select"] {
+    background-color: grey;
+}
+
+form>* {
+    margin: 3px 5px;
+}
+
+/* .resize1 {
+    width: 100%;
+} */
+
+.width1 {
+    width: 17rem;
+}
+
+.width2 {
+    width: 35rem;
+}
+
+.highlight1 {
+    color: red;
+}
+
+.bold1 {
+    font-weight: bold;
+}
+
+.margin1 {
+    margin-right: 0.5rem;
+}
+
+.padding1 {
+    padding-left: 0.5rem;
+}
+
+button {
+    background-color: rgb(84, 168, 196);
+    color: #fff;
+    height: 2.5rem;
+}
+
+button:hover {
+    background-color: rgb(13, 42, 52);
+    color: #fff;
+}
+
+/* ============= FOOTER STYLES =========== */
